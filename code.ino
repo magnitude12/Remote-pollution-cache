@@ -4,8 +4,8 @@
 #include <DS3231.h>
 #include <SD.h>
 
-#define DHTPIN 4      // Pin connected to the DHT sensor
-#define DHTTYPE DHT22 // DHT sensor type
+#define DHTPIN 4      // Pin connected to the DHT sensor (temp)
+#define DHTTYPE DHT22 // DHT sensor (temp) type
 
 #define SDS_RX_PIN 2   // Pin connected to the SDS011 RX pin
 #define SDS_TX_PIN 3   // Pin connected to the SDS011 TX pin
