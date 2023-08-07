@@ -5,6 +5,7 @@
 #include <SD.h>
 #include <stdio.h>
 
+//this change is by Piyush Dahal
 #define DHTPIN 4      // Pin connected to the DHT sensor (temp and humidity)
 #define DHTTYPE DHT22 // DHT sensor type
 
