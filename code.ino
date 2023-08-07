@@ -3,7 +3,7 @@
 #include <Wire.h>
 #include <DS3231.h>
 #include <SD.h>
-
+//this change is by Piyush Dahal
 #define DHTPIN 4      // Pin connected to the DHT sensor
 #define DHTTYPE DHT22 // DHT sensor type
 
